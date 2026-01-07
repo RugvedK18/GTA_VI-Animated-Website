@@ -1,12 +1,28 @@
-# React + Vite
+Live Preview -- https://gta-vi-animation.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎮 GTA VI Cinematic Landing Animation (React + GSAP)
 
-Currently, two official plugins are available:
+A cinematic GTA VI–inspired landing page animation built using React, GSAP, and SVG masking techniques.
+This project recreates a Rockstar-style intro reveal, followed by immersive parallax motion effects and smooth transitions for a premium AAA-game feel.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Live Experience</br>
 
-## Expanding the ESLint configuration
+🌀 Smooth intro mask animation </br>
+🌌 Parallax mouse-move effects </br>
+🎬 Cinematic transitions inspired by GTA VI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Features</br>
+🔥 SVG Mask Intro Animation</br>
+Animated VI logo using SVG masking
+Scale + rotation reveal with GSAP timelines</br>
+Seamless transition into main content
+
+🎥 Cinematic GSAP Animations</br>
+Multi-layer animations (sky, background, character, text)</br>
+Advanced easing (Expo, Power4)</br>
+Timeline-based orchestration
+
+🖱️ Interactive Parallax Effects</br>
+Mouse-controlled parallax movement</br>
+Dynamic depth illusion for background & text</br>
+Smooth GSAP tweens for realism
